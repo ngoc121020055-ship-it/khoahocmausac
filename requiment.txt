@@ -1,0 +1,6 @@
+streamlit
+colour-science
+numpy
+pandas
+matplotlib
+scipy
